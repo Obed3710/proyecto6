@@ -2,6 +2,24 @@
 #include <math.h>
 using namespace std;
 
+double suma(double numero) {
+	double suma = sqrt(numero);
+	return suma;
+}
+double resta(double numero) {
+	double resta = sqrt(numero);
+	return resta;
+}
+double multiplicacion(double numero) {
+	double multiplicacion = sqrt(numero);
+	return multiplicacion;
+}
+double division(double numero) {
+	double division = sqrt(numero);
+	return division;
+}
+
+
 int main(int argc, char** argv) {
 	double n1,n2;
 	
